@@ -1,0 +1,6 @@
+22-11-13 17:51:39.866 : --------------- quality factor: 80 ---------------
+22-11-13 17:51:40.235 : Model path: model_zoo\fbcnn_color.pth
+22-11-13 17:51:40.236 : ---1--> Abilities_34.png
+22-11-13 17:51:41.067 : Abilities_34.png - PSNR: 40.17 dB; SSIM: 0.987; PSNRB: 40.17 dB.
+22-11-13 17:51:41.068 : predicted quality factor: 76
+22-11-13 17:51:41.088 : Average PSNR/SSIM/PSNRB - LIVE1_color_fbcnn_color_80 -: 40.17$\vert$0.9871$\vert$40.17.
